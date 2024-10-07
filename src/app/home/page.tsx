@@ -7,7 +7,7 @@ import ImgNext from "@/assets/Next.jpeg"
 export default function Home() {
   return (
     <div>
-      <h1 className="text-2xl font-bold text-center my-8">CSS Resposive Cards</h1>
+      <h1 className="text-2xl font-bold text-center my-8">Página Inicial</h1>
       <div className="flex flex-row justify-center items-center flex-wrap gap-8">
       
         <div className="flex flex-col justify-between items-center w-48 h-80 md:w-64 md:h-[25rem] border-cy3 border-2 border-solid">
